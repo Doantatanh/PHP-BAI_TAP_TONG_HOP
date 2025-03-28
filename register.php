@@ -44,3 +44,5 @@
     </div>
 </div>
 <?php include 'components/footer.php' ?>
+
+<!-- hello xin chào mọi người -->
