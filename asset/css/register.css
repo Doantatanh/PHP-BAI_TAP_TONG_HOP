@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.register-card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background: linear-gradient(135deg, #6c63ff, #4caf50);
+  border-radius: 15px 15px 0 0 !important;
+  color: white;
+}
+
+.form-control:focus {
+  border-color: #6c63ff;
+  box-shadow: 0 0 0 0.2rem rgba(108, 99, 255, 0.25);
+}
