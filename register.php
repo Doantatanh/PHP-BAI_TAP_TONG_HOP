@@ -36,6 +36,7 @@
                         <button class="w-100 btn btn-primary" name="Register">Register</button>
                         <div class="card-footer text-center">
                             <small>Already have an account? <a href="login.php" class="text-primary">Login here</a></small>
+                            <p>hello xin chào mọi người</p>
                         </div>
                     </form>
                 </div>
@@ -44,5 +45,3 @@
     </div>
 </div>
 <?php include 'components/footer.php' ?>
-
-<!-- hello xin chào mọi người -->
