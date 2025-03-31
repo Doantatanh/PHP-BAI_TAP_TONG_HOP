@@ -1,0 +1,2 @@
+chuột phải màn hình chọn git bash
+git clone https://github.com/username/repository.git
